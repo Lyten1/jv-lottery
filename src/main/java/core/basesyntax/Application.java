@@ -7,8 +7,8 @@ public class Application {
         Ball ballTwo = lottery.getRandomBall();
         Ball ballThree = lottery.getRandomBall();
 
-        System.out.println(ballOne.toString());
-        System.out.println(ballTwo.toString());
-        System.out.println(ballThree.toString());
+        System.out.println(ballOne);
+        System.out.println(ballTwo);
+        System.out.println(ballThree);
     }
 }
